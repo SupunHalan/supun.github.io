@@ -6,7 +6,7 @@
 name: Supun Halangoda alias (Suppa)
 
 # Short bio or description (displayed in the header)
-description: Security Researcher / Hacker from Somewhere
+description: Security Researcher / Hacker {from Somewhere}
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://commons.wikimedia.org/wiki/File:Supun_Halangoda.jpg
@@ -18,15 +18,15 @@ avatar: https://commons.wikimedia.org/wiki/File:Supun_Halangoda.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: supun.halangoda11@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: SupunHalan/
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: halangoda_supun
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
