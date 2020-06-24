@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm Supun Halangoda, alias "Suppa" I do security researches and penetration test on Web Apps & Networks. App Factory  was my first start up where I provide software solutions to users. I also enjoys in Exploit development, cryptography and loves music. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[supunhalangoda6[at]gmail(dot)com](mailto:supunhalangoda6@protonmail.com)
